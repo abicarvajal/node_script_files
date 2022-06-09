@@ -1,0 +1,25 @@
+{
+  "name": "node_script",
+  "version": "1.0.0",
+  "description": "script to reubicate files",
+  "main": "index.js",
+  "scripts": {
+    "main":"node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abicarvajal/node_script_files.git"
+  },
+  "keywords": [
+    "node",
+    "script",
+    "files"
+  ],
+  "author": "Abigail Carvajal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abicarvajal/node_script_files/issues"
+  },
+  "homepage": "https://github.com/abicarvajal/node_script_files#readme"
+}
